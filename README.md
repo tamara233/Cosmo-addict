@@ -1,4 +1,4 @@
-# cosmo-addict-grid
+# Cosmo addict grid
 
 Responsive layout using CSS grid. 
 
